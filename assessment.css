@@ -1,0 +1,9 @@
+body {
+  background-color : dodgerblue;
+}
+
+#map {
+  height : 400px;
+  width : 400px;
+  padding : 30px;
+}
